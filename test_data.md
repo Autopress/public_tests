@@ -56,7 +56,7 @@ if __name__=="__main__":
 #### Pregunta 4. Supongamos que la tabla 'Indicators' de la base de datos descrita en la pregunta anterior acumula 40 millones de registros. Nombra 5 estrategias distintas que utilizarías para optimizar el desempeño de la base de datos en general. Intenta describir en detalle la acción a realizar (ej. qué columnas específicas manipularas) y que tipo de queries podrían mejorar su desempeño (consulta o modificación). Toma como supuesto que inicialmente la base de datos está en el mismo servidor que la aplicación, es una base MySQL con motor InnoDB y es necesario que la base de datos se mantenga como una base relacional.
 
 
-## Tema 3: Cloud and Networking
+## TEMA 3: Cloud and Networking
 
 #### Pregunta 1. Explica el propósito de al menos 4 tipos de requests HTTP cuando éstos son utilizados para consultar una API tipo Restful
 
